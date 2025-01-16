@@ -1,10 +1,10 @@
 Hi 👋 My name is Daniel!
 ========================
 
-Bioinformatician
-----------------
+Postdoctoral researcher
+------------------------
 
-I am a bioinformatician with a background in biotechnology and molecular microbiology, consistently striving for excellence in planning and executing my work. I am proficient in analyzing whole-genome sequencing, 16S rRNA amplicon sequencing, and shotgun-metagenomics data via various publicly available tools in Linux command line. Additionally, my expertise lies in standardization approaches using tools such as Nextflow, RStudio, and RMarkdown, which I employ daily for quality reporting, efficient data management and analysis, and workflow optimization. Apart from that, I thrive on the challenge of visualizing complex data, continuously seeking innovative methods to capture the essence of diverse datasets.
+I am a postdoctoral researcher with a background in biotechnology and molecular microbiology, consistently striving for excellence in planning and executing my work. I am proficient in analyzing whole-genome sequencing, 16S rRNA amplicon sequencing, and shotgun-metagenomics data via various publicly available tools in Linux command line. Additionally, my expertise lies in standardization approaches using tools such as Nextflow, RStudio, and RMarkdown, which I employ daily for quality reporting, efficient data management and analysis, and workflow optimization. Apart from that, I thrive on the challenge of visualizing complex data, continuously seeking innovative methods to capture the essence of diverse datasets.
 
 ### Skills 
 
